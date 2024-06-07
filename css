@@ -1,0 +1,14 @@
+<style>
+	@media only screen and (max-width: 767px) {
+    div#CybotCookiebotDialog {
+        width: 135% !important; /* Keep width at 100% */
+		max-width: 1200px !important; /* Set maximum width to prevent it from becoming too large */
+        position: fixed !important; /* Ensure fixed positioning */
+        left: 0% !important; /* Align left edge */
+		right: 1px!important;
+        bottom: 0 !important; /* Stick to the bottom */
+        padding: 15px 20px !important; /* Adjust padding for smaller screens */
+    height: 300px!important;
+    }
+}
+</style>
