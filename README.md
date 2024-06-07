@@ -1,0 +1,1 @@
+In WordPress - Copy the css code from repository and paste it in header section of the website. You may use plugin like code snippet or any other plugins or yoy may go to Theme customizstion and paste the code in additional css.
