@@ -4,6 +4,7 @@
 1. In WordPress - Copy the CSS code from the repository and paste it in the header section of the website. You may use a plugin like Code Snippet or any other plugin or go to Theme Customisation and paste the code in additional CSS.
 You can use this CSS code for all other platforms. 
 
-<h4>Sample Image</h4>
-![Coobiebot mobile responsive](https://github.com/aforarif/Cookiebot-Consent-V2-Banner-Mobile-Responisve-/assets/172052358/47db5e4d-f987-4a72-9f45-0279a9411bec)
+<h4>Sample Image</h4> </br>
+
+
 
