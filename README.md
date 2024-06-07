@@ -1,1 +1,2 @@
-In WordPress - Copy the css code from repository and paste it in header section of the website. You may use plugin like code snippet or any other plugins or yoy may go to Theme customizstion and paste the code in additional css.
+In WordPress - Copy the CSS code from the repository and paste it in the header section of the website. You may use a plugin like Code Snippet or any other plugin or go to Theme customisation and paste the code in additional CSS.
+
