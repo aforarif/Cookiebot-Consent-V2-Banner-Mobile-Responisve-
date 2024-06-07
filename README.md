@@ -6,5 +6,6 @@ You can use this CSS code for all other platforms.
 
 <h4>Sample Image</h4> </br>
 
+![Coobiebot mobile responsive](https://github.com/aforarif/Cookiebot-Consent-V2-Banner-Mobile-Responisve-/assets/172052358/5fe15b33-112c-467c-b557-27e5f33e3122)
 
 
